@@ -19,8 +19,9 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
 ```
-Developed by: GANJI MUNI MADHURI
-Register number: 2122223230060
+Developed by:GANJI MUNI MADHURI
+Register number:212223230060
+```
 ```
 import seaborn as sns
 import matplotlib.pyplot as plt
